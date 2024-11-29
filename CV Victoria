@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Victoria Aguilar</h1>
+    <p>Email: aguilarazuajevian@uvm.ed.ve | Teléfono: +84 153 406 489 | LinkedIn: linkedin.com/in/aguilarviana</p>
+
+    <div class="section">
+        <h2 class="section-title">Perfil Profesional</h2>
+        <p>Persona altamente organizada y enfocada, tengo skills en organizar cuentas y gestionar proyectos.</p>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Experiencia Laboral</h2>
+        <h3>Vica Academia - Puesto</h3>
+        <p><strong>2021 - 2022</strong></p>
+        <ul>
+            <li>Guia conversacional</li>
+            <li>Atención al cliente</li>
+        </ul>
+
+    <div class="section">
+        <h2 class="section-title">Educación</h2>
+        <h3>Universidad Valle del Mmoboy - Ingeniería Industrial</h3>
+        <p><strong>2022 - Presente</strong></p>
+
+        <h3>Colegio Monseñor Mejía - Bachiller en Ciencias</h3>
+        <p><strong>2016 - 2021</strong></p>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Habilidades</h2>
+        <ul>
+            <li>Liderazgo</li>
+            <li>Adaptabilidad</li>
+            <li>Comunicación Efectiva</li>
+            <li>Atención al detalle</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Idiomas</h2>
+        <ul>
+            <li>Español - Nativo</li>
+            <li>Inglés - Fluido</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Referencias</h2>
+        <p>Disponibles a solicitud.</p>
+    </div>
+</div>
+
+</body>
+</html>
